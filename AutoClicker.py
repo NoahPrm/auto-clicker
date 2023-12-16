@@ -34,7 +34,7 @@ def auto_clicker():
     start_button.config(state=tk.NORMAL)
 
 root = tk.Tk()
-root.title("Auto Clicker")
+root.title("Auto Clicker by NoahPrm")
 
 start_button = tk.Button(root, text="Start", command=auto_clicker)
 start_button.pack(pady=10)
