@@ -35,7 +35,7 @@ git clone https://github.com/NoahPrm/auto-clicker.git
     
 ## Support
 
-For support, email contact@noahprm.fr or join my Discord Server.
+For support, email noahprmt@gmail.com or join my Discord Server.
 
 
 ## License
